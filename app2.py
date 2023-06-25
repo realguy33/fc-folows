@@ -11,6 +11,7 @@ from stqdm import stqdm
 st.markdown('built by [yesyes](https://warpcast.com/yesyes)')
 
 st.title("Farcaster Follow recommendations")
+st.write("if the app isn't working on your phone then please view it in your browser as a  desktop site or open it in your pc. thanks"
 
 username = st.text_input('Enter your username on Farcaster')
 
